@@ -5,7 +5,7 @@ i am very bored; lets code something? fork this project and make something. come
 std::string iambored = false;
 ```
 
-If you accidentaly corrupt this you can rebuild it using
+If you accidentally corrupt this you can rebuild it using
 ```bash
 make
 ```
