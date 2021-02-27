@@ -4,3 +4,8 @@ i am very bored; lets code something? fork this project and make something. come
 ```c++
 std::string iambored = false;
 ```
+
+If you accidently corrupt this you can rebuild it using
+```bash
+make
+```
